@@ -5,8 +5,7 @@
     {
       "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/0a/0d/640a0d9e-146b-80a5-296b-216503468593/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ],
   "start_url": "/napper-web/",
