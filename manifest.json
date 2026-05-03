@@ -3,13 +3,13 @@
   "name": "Napper: Baby Sleep Tracker",
   "icons": [
     {
-      "src": "https://img.icons8.com/fluency/512/baby-app.png",
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/0a/0d/640a0d9e-146b-80a5-296b-216503468593/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
-  "start_url": ".",
+  "start_url": "/napper-web/",
   "display": "standalone",
   "theme_color": "#FFDADA",
   "background_color": "#FFFAFA"
