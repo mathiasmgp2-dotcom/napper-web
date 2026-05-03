@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/napper-web/static/css/main.3fb41e7d.css",
-    "main.js": "/napper-web/static/js/main.8d214f4e.js",
+    "main.css": "/napper-web/static/css/main.8dbde600.css",
+    "main.js": "/napper-web/static/js/main.a0d9b42d.js",
     "index.html": "/napper-web/index.html",
-    "main.3fb41e7d.css.map": "/napper-web/static/css/main.3fb41e7d.css.map",
-    "main.8d214f4e.js.map": "/napper-web/static/js/main.8d214f4e.js.map"
+    "main.8dbde600.css.map": "/napper-web/static/css/main.8dbde600.css.map",
+    "main.a0d9b42d.js.map": "/napper-web/static/js/main.a0d9b42d.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fb41e7d.css",
-    "static/js/main.8d214f4e.js"
+    "static/css/main.8dbde600.css",
+    "static/js/main.a0d9b42d.js"
   ]
 }
